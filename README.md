@@ -1,6 +1,6 @@
 ### Hi, welcome to visit, I'm [Trae1ounG](https://trae1oung.github.io/) 🤠 
 
-### I am sharing blog writings here - <a href="https://www.xiaohongshu.com/user/profile/6130728d000000000201b3fe"><img src="https://img.shields.io/badge/小红书-8A2BE2" /></a>
+### I am sharing blog writings here - <a href="https://www.xiaohongshu.com/user/profile/6130728d000000000201b3fe"><img src="https://img.shields.io/badge/小红书-REDnote-8A2BE2" /></a>
 
   
 
