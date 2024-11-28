@@ -1,5 +1,6 @@
+
 ### Hi, welcome to visit, I'm [Trae1ounG](https://trae1oung.github.io/) 🤠
-  
+![description](./trae1oung.gif)
 
 
 - 👻 B.S. Student at UESTC
