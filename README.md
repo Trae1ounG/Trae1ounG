@@ -9,6 +9,3 @@
 - 📞 Reach me with yuqiaot@std.uestc.edu.cn
 - 🔎 More information: https://trae1oung.github.io
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=trae1oung&label=Profile%20Views&color=2&icon=6&pretty=false" />
-</a>
