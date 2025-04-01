@@ -9,3 +9,4 @@
 - 📞 Reach me with yuqiaot@std.uestc.edu.cn
 - 🔎 More information: https://trae1oung.github.io
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Trae1ounG.Trae1ounG)
