@@ -6,7 +6,7 @@
 - 👻 B.S. Student at UESTC
 - 📒 Future M.S Student at CASIA
 - 🏋️‍♀️ like fitness / basketball
-- 📞 Reach me with yuqiaot@std.uestc.edu.cn
+- 📞 Reach me with tanyuqiao2025@ia.ac.cn or yuqiaot@std.uestc.edu.cn
 - 🔎 More information: https://trae1oung.github.io
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Trae1ounG.Trae1ounG)
